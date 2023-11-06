@@ -1,6 +1,6 @@
 :beetle:	 Hi! My name is Kate, and I am a QA. :beetle:	
 ## :pushpin: Summary
-I enjoy playing games and testing, so I decide to become a QA professional[^1]. 
+I enjoy playing games and testing, so I decided to become a QA professional[^1]. 
 I'm looking for new opportunities to expand my experience and contribute to exciting projects. With my experience in quality assurance and a sincere love for gaming, I'm looking forward to bringing my skills and dedication to the team. 
 The previous projects I have worked on include such genres as Survival Sandbox, PVP, Match2, Platformer, and Racing.
 
@@ -10,7 +10,8 @@ The previous projects I have worked on include such genres as Survival Sandbox, 
 - [Planet of Cubes](https://play.google.com/store/apps/details?id=com.slgames.plnt)
 - [WorldCraft](https://play.google.com/store/apps/details?id=com.craftgames.worldcrft)
 - [Poker](https://play.google.com/store/apps/details?id=com.slgames.poker)
-- [Vanspace Makeover](https://play.google.com/store/apps/details?id=com.MunchieGames.VanMakeover) 
+- [Vanspace Makeover](https://play.google.com/store/apps/details?id=com.MunchieGames.VanMakeover)
+- [Zeeds](https://play.google.com/store/apps/details?id=com.Zeedz_GmbH.Zeedz&pli=1)
 
 ### :hammer_and_wrench: Tech skills: 
 - TestRail
@@ -28,6 +29,7 @@ The previous projects I have worked on include such genres as Survival Sandbox, 
 #### QA Engineer 
 May 2022 - May 2023, Kyiv City, Ukraine
 #### Responsibilities: 
+- Created a checklist concept which used in the different projects in the company;
 - Collaborated with the development team to ensure adherence to quality standards and timely bug fixes;
 - Conducted smoke, integration, and regression tests for mobile phone, tablet, and desktop products on Android, iOS, Google Android, and Mac platforms;
 - Used TestRail and maintained comprehensive documentation;
